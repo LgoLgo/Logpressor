@@ -1,8 +1,8 @@
-# .github
+![Logpressor](Logpressor.png)
 
 English | [中文](README_zh.md)
 
-Money is cheap, show me the code.
+Implement time-based log generation and compression, aimed at practicing shell commands.
 
 ## License
 

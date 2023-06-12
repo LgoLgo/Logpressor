@@ -1,8 +1,8 @@
-# .github
+![Logpressor](Logpressor.png)
 
 [English](README.md) | 中文
 
-Money is cheap, show me the code.
+实现基于时间的日志生成和压缩，旨在练习 Shell 命令。
 
 ## 许可证
 
